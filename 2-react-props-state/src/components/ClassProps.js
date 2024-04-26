@@ -39,6 +39,6 @@ class ClassProps2 extends Component {
 }
 
 ClassProps2.defultProps = {
-  bgColor: "skybule",
+  bgColor: "skyblue",
 };
 export { ClassProps, ClassProps2 };
